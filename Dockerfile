@@ -1,1 +1,2 @@
-FROM sonatype/nexus3
+FROM busybox42/zimbra-docker-centos
+
