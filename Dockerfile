@@ -1,2 +1,1 @@
-FROM busybox42/zimbra-docker-centos
-
+FROM jorgedlcruz/zimbra
