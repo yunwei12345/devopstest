@@ -1,3 +1,3 @@
-FROM busybox42/zimbra-docker-centos
+FROM centos:7
 
 
