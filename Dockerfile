@@ -1,3 +1,3 @@
-FROM centos:7
+FROM zimbra/zm-base-os:devcore-centos-7:latest
 
 
